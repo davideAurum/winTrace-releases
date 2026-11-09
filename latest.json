@@ -1,0 +1,31 @@
+{
+  "format": "winTrace.update-feed",
+  "version": 1,
+  "product": "winTrace",
+  "release": {
+    "version": "0.1.0-alpha.1",
+    "notesUrl": "https://github.com/davideAurum/winTrace-releases/releases/tag/v0.1.0-alpha.1",
+    "setup": {
+      "file": "winTrace-0.1.0-alpha.1-setup.exe",
+      "url": "https://github.com/davideAurum/winTrace-releases/releases/download/v0.1.0-alpha.1/winTrace-0.1.0-alpha.1-setup.exe",
+      "bytes": 2301271,
+      "sha256": "0d95e5fce81caf6c46fadde07f9d7fe372f0dd9f6e9775d543b0682c7110ab87"
+    },
+    "packages": [
+      {
+        "kind": "framework-dependent",
+        "file": "winTrace-0.1.0-alpha.1-win-x64-framework-dependent.zip",
+        "url": "https://github.com/davideAurum/winTrace-releases/releases/download/v0.1.0-alpha.1/winTrace-0.1.0-alpha.1-win-x64-framework-dependent.zip",
+        "bytes": 418679,
+        "sha256": "f124b823cf5873068da034832381bc1a279c3bacb3ad2def9a772ef85dba389b"
+      },
+      {
+        "kind": "self-contained",
+        "file": "winTrace-0.1.0-alpha.1-win-x64-self-contained.zip",
+        "url": "https://github.com/davideAurum/winTrace-releases/releases/download/v0.1.0-alpha.1/winTrace-0.1.0-alpha.1-win-x64-self-contained.zip",
+        "bytes": 90880297,
+        "sha256": "219b1cc63df780fe470f9caf8115247251afe79192f3457470475ac67d277c4d"
+      }
+    ]
+  }
+}
